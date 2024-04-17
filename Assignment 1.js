@@ -3,7 +3,7 @@ import { View, Text, Button, StyleSheet } from 'react-native';
 
 const HomeScreen = () => {
   const name = "Y. Mohamed Idris";
-  const regNo = "22MIa1005";
+  const regNo = "22MIA1005";
   const [backgroundColor, setBackgroundColor] = useState('#e6e6e6');
 
   const handleBackgroundChange = () => {
